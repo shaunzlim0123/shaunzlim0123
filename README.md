@@ -1,6 +1,6 @@
 # Welcome to My GitHub Repository
 
-Hello, I'm [Your Name]! I'm currently pursuing a Master of Information Technology at UNSW, and I completed my undergraduate studies in Data Science at USYD. My passion lies in exploring cutting-edge technologies, and I'm actively expanding my skills in Large Language Models (LLMs), software development, and data science.
+Hello, I'm Shaun! I'm currently pursuing a Master of Information Technology at UNSW, and I completed my undergraduate studies in Data Science at USYD. My passion lies in exploring cutting-edge technologies, and I'm actively expanding my skills in Large Language Models (LLMs), software development, and data science.
 
 ## About Me
 
