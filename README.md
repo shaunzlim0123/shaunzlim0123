@@ -1,24 +1,15 @@
-# Welcome to My GitHub Repository
+# Hi, I'm Shaun Lim 👋
 
-Hello, I'm Shaun! I'm currently pursuing a Master of Information Technology at UNSW, and I completed my undergraduate studies in Data Science at USYD. My passion lies in exploring cutting-edge technologies, and I'm actively expanding my skills in Large Language Models (LLMs), software development, and data science.
+Welcome to my GitHub! I'm a data and software development enthusiast with a focus on agents, LLMs, and data science.
 
-## About Me
+- 🎓 **Educational Background:**   
+  - Currently pursuing a Master of Information Technology at UNSW
+  - Bachelor of Science (Data Science) from the University of Sydney
 
-With a strong background in data science and technology, I strive to be at the forefront of innovation. My journey involves deep dives into machine learning, building robust software solutions, and turning data into actionable insights. I'm particularly focused on autonomous agents and large language models (LLMs), which are transforming how we interact with technology and automate complex tasks.
+- 🔍 **About Me:**  
+  I'm passionate about exploring innovative technologies—especially autonomous agents and large language models (LLMs)—to build smart software solutions and derive actionable insights from data.
 
-## Repository Overview
+- 🤝 **Let’s Connect:**  
+  I'm always up for networking and collaboration. Check out my [LinkedIn](https://www.linkedin.com/in/shaun-lim-a2848928a/) to learn more about my journey.
 
-This repository is a collection of my projects, experiments, and learning milestones. Inside, you'll find:
-
-- **Large Language Models:** Hands-on experiments and implementations showcasing the power of LLMs.
-- **Software Development:** A variety of projects that highlight my evolving skills in developing scalable and efficient software.
-- **Data Science:** Analytical projects, machine learning models, and visualizations that turn raw data into meaningful stories.
-
-## Technologies & Tools
-
-I work with a diverse set of technologies and frameworks, including:
-
-- **Programming Languages:** Python, Java, R, SQL.
-- **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy.
-- **Development Tools:** Git, GitHub, GitLab.
-- **Visualization:** Matplotlib, Plotly, Seaborn
+Explore my repositories for projects on agents, LLMs, software development, and data science. Happy coding!
