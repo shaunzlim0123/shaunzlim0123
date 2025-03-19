@@ -1,4 +1,4 @@
-# Hi, I'm Shaun Lim 👋
+# Hey, I'm Shaun 👋
 
 Welcome to my GitHub! I'm a data and software development enthusiast with a focus on agents, LLMs, and data science.
 
