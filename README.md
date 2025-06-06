@@ -10,14 +10,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="src/files/shahriar-rahman-updated.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
-
-<a href="mailto:shaunzlim0123@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
 ---
 
 ## 📊 Notable Projects and Research
