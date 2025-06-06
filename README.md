@@ -20,6 +20,10 @@
 | :-: | :-: | 
 Quantium Customer and Product Analytics
 
+### 🔒 Machine Learning
+| Project | Modules & Technologies |
+| :-: | :-: | 
+
 ---
 
 ## 🛠️ Tech Stack
