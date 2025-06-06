@@ -12,13 +12,13 @@
 
 ---
 
-## 📊 Notable Projects and Research
+## 📊 Notable Projects
 
-### 🔒 Deep Learning
+### 🔒 Exploratory Data Analysis
 
-| Research Topic | Modules & Technologies | Engagements |
-|:---|:---:|:---:|
-
+| Project | Modules & Technologies |
+| :-: | :-: | 
+Quantium Customer and Product Analytics
 
 ---
 
