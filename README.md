@@ -18,14 +18,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaun-lim-a2848928a/)
-[![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](YOUR_PDF_URL)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](YOUR_CV_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](YOUR_RESEARCHGATE_URL)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=Coursera&logoColor=white)](YOUR_COURSERA_URL)
-
 <!-- Hero Image -->
 <img src="https://your-image-url.com/data-science-illustration.png" alt="Data Science Illustration" width="500"/>
 
