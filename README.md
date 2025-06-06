@@ -14,15 +14,16 @@
 
 ## 📊 Notable Projects
 
-### 🔒 Exploratory Data Analysis
+### 🔒 Data Analytics
 
 | Project | Modules & Technologies |
 | :-: | :-: | 
 Quantium Customer and Product Analytics
 
-### 🔒 Machine Learning
+### 🔒 AI Engineering
 | Project | Modules & Technologies |
 | :-: | :-: | 
+| <p align="left">[Ice-Breaker-App](https://github.com/shaunzlim0123/ice-breaker-app) </p> | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green) </p> |
 
 ---
 
