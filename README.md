@@ -14,11 +14,16 @@
 
 ## 📊 Notable Projects
 
-### 🔒 Data Analytics
+### 🔒 Exploratory Data Analysis
 
 | Project | Modules & Technologies |
 | :-: | :-: | 
 Quantium Customer and Product Analytics
+
+### 🔒 AB Testing
+| Project | Modules & Technologies |
+| :-: | :-: | 
+Quantium Trial Store Analytics
 
 ### 🔒 AI Engineering
 
