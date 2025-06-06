@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://github.com/shaunzlim0123">
     <img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shaun+Lim;Data+Scientist+%7C+AI+Engineer;Data+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
@@ -11,6 +10,17 @@
 </a>
 
 ---
+
+## 👋 About Me
+
+Welcome to my GitHub! I'm a data and software development enthusiast with a focus on agents, LLMs, and data science.
+
+- 🎓 **Educational Background:**   
+  - Currently pursuing a Master of Information Technology at UNSW
+  - Bachelor of Science (Data Science) from the University of Sydney
+
+- 🔍 **About Me:**  
+  I'm passionate about exploring innovative technologies—especially autonomous agents and large language models (LLMs)—to build smart software solutions and derive actionable insights from data.
 
 ## 📊 Notable Projects
 
@@ -56,5 +66,3 @@ Quantium Trial Store Analytics
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
-
-
