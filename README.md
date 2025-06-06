@@ -18,11 +18,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<!-- Hero Image -->
-<img src="https://your-image-url.com/data-science-illustration.png" alt="Data Science Illustration" width="500"/>
-
-</div>
-
 ---
 
 ## 📊 Notable Projects and Research
