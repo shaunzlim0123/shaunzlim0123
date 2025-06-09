@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a data and software development enthusiast with a focu
   - Bachelor of Science (Data Science) from the University of Sydney
 
 - 🔍 **About Me:**  
-  I'm passionate about exploring innovative technologies—especially autonomous agents and large language models (LLMs)—to build smart software solutions and derive actionable insights from data.
+  I'm passionate about exploring innovative technologies, especially autonomous agents and large language models (LLMs) to build smart software solutions and derive actionable insights from data.
 
 ## 📊 Notable Projects
 
