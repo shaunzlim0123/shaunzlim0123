@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/shaunzlim0123">
-    <img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shaun+Lim;Data+Scientist+%7C+AI+Engineer;Data+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cooper+Black&weight=50&duration=2000&pause=120&color=75EBD3&background=0A221F00&center=true&multiline=true&width=435&height=100&lines=Shaun+Lim;AI+Engineer+%7C+Backend+Engineer;Data+Scientist+%7C+Data+Engineer" alt="Typing SVG" />
 </a>
   
 <br/>
